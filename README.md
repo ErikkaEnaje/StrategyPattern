@@ -48,4 +48,7 @@ public class Character {
     }
 }
 
-# CLASS DIAGRAM
+# UML DIAGRAM
+ - STRATEGY PATTERN
+![Blank diagram](https://github.com/ErikkaEnaje/StrategyPattern/assets/142382057/6ca326c4-e89e-4ed7-a010-c4ff9f2846f4)
+
